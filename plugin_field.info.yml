@@ -1,0 +1,5 @@
+type: module
+name: Plugin Field
+description: 'Provides the necessary plumbing for a fieldable entity to contain a plugin instance.'
+version: VERSION
+core: 8.x
